@@ -4,10 +4,10 @@ const Home = () => {
   return (
     <div>
         <div className='Big-Main'>
-        <p>hot mes juii</p>
+        <p>hot mes joy ery</p>
         </div>
     </div>
-  )
+  );
 }
 
 export default Home
