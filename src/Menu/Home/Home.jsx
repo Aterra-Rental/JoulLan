@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div>
         <div className='Big-Main'>
-        <p>hi</p>
+        <p>juii knea</p>
         </div>
     </div>
   )
